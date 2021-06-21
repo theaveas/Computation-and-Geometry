@@ -3,7 +3,7 @@
 ## [Basic definition](https://github.com/theaveas/Gh-geometry/tree/main/Basic%20definition)
 A collection of basic definition of grasshaopper. All this definition help me to get start with vanilla grasshopper, It contains the basic of how to manipulating geometry like move, cull, rotate, etc.
 
-[
+
 
 ## [Weird stuffs](https://github.com/theaveas/Gh-geometry/tree/main/Weird%20stuffs)
 A collection of design I made, some of those take an inspiration from all over the place. You can take a look play around with the parameter to make something weird or cool.
