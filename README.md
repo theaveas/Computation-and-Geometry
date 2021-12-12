@@ -1,4 +1,4 @@
-# Gh-geometry
+# Computational Design geometry
 
 ## [Basic definition](https://github.com/theaveas/Gh-geometry/tree/main/Basic%20definition)
 A collection of basic definition of grasshaopper. All this definition help me to get start with vanilla grasshopper, It contains the basic of how to manipulating geometry like move, cull, rotate, etc.
